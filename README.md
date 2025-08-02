@@ -9,3 +9,15 @@ To predict students' final exam scores based on three factors:
 
 Method:
 A Multiple Linear Regression model is used to estimate the relationship between these variables and the final score using a small historical dataset.
+
+Dataset:
++---------------+---------------------+------------------------+------------+
+| Hours Studied | Attendance Rate (%) | Practice Test Taken    | Final Score|
+|               |                     |                        |   (0-100)  |
++---------------+---------------------+------------------------+------------+
+|       1       |         85          |           1            |        50  |
+|       2       |         80          |           2            |        55  |
+|       3       |         95          |           3            |        60  |
+|       4       |         85          |           4            |        65  |
+|       5       |         90          |           5            |        70  |
++---------------+---------------------+------------------------+------------+
